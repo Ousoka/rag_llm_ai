@@ -65,7 +65,7 @@ Imagine un assistant IA qui, avant de te répondre, va d’abord chercher dans u
 ## Schéma du fonctionnement RAG
 
 <div align="center">
-  <img src="../images/rag_schema.png" alt="Schéma RAG" width="500">
+  <img src="../images/rag_schema1.png" alt="Schéma RAG" width="500">
 </div>
 
 ---
