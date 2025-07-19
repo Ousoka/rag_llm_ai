@@ -2,6 +2,19 @@
 
 ![IA qui cherche et génère](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80)
 
+---
+
+## Définition mot à mot de RAG
+
+- **Retrieval** (Recherche) : L’action de retrouver ou d’aller chercher des informations pertinentes dans une base de données, des documents ou sur internet.
+- **Augmented** (Augmenté) : Cela signifie que la génération de texte est enrichie ou améliorée par les informations récupérées.
+- **Generation** (Génération) : La capacité de l’IA à produire du texte ou des réponses à partir des informations qu’elle possède ou qu’elle a récupérées.
+
+**Relation entre les termes** :  
+La génération (Generation) est augmentée (Augmented) grâce à la recherche (Retrieval) d’informations. L’IA ne se contente pas de ce qu’elle sait : elle va chercher des données à jour et les utilise pour créer une réponse plus pertinente.
+
+---
+
 ## Qu’est-ce que le RAG ?
 
 Le RAG est une technique d’intelligence artificielle qui combine deux grandes capacités :  
@@ -13,15 +26,20 @@ Imagine un assistant IA qui, avant de te répondre, va d’abord chercher dans u
 
 ## Comment ça marche ?
 
-1. **Recherche d’informations**  
-   L’IA commence par chercher des documents ou des articles pertinents en lien avec ta question.
-
-   ![Recherche documentaire](https://cdn.pixabay.com/photo/2016/11/29/09/32/search-1867743_1280.jpg)
-
-2. **Génération de réponse**  
-   Ensuite, elle utilise les informations trouvées pour rédiger une réponse adaptée.
-
-   ![Génération de texte](https://cdn.pixabay.com/photo/2017/01/10/19/05/typing-1975682_1280.jpg)
+<table>
+  <tr>
+    <td>
+      <strong>Recherche d’informations</strong><br>
+      L’IA commence par chercher des documents ou des articles pertinents en lien avec ta question.<br>
+      <img src="https://cdn.pixabay.com/photo/2016/11/29/09/32/search-1867743_1280.jpg" alt="Recherche documentaire" width="300">
+    </td>
+    <td>
+      <strong>Génération de réponse</strong><br>
+      Ensuite, elle utilise les informations trouvées pour rédiger une réponse adaptée.<br>
+      <img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/typing-1975682_1280.jpg" alt="Génération de texte" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,7 +60,9 @@ Imagine un assistant IA qui, avant de te répondre, va d’abord chercher dans u
 
 ## Schéma du fonctionnement RAG
 
-![Schéma RAG](https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/rag.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/rag.png" alt="Schéma RAG" width="500">
+</div>
 
 ---
 
