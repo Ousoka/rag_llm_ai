@@ -32,6 +32,7 @@ Imagine un assistant IA qui, avant de te répondre, va d’abord chercher dans u
       <strong>Recherche d’informations</strong><br>
       L’IA commence par chercher des documents ou des articles pertinents en lien avec ta question.<br>
       <img src="../images/rag_1.png" alt="Recherche d’informations" width="300"><br>
+      <hr />
       <strong>Recherche documentaire</strong><br>
       L’IA analyse et sélectionne les documents les plus utiles pour répondre.<br>
       <img src="../images/rag_2.png" alt="Recherche documentaire" width="300">
