@@ -31,12 +31,15 @@ Imagine un assistant IA qui, avant de te répondre, va d’abord chercher dans u
     <td>
       <strong>Recherche d’informations</strong><br>
       L’IA commence par chercher des documents ou des articles pertinents en lien avec ta question.<br>
-      <img src="https://cdn.pixabay.com/photo/2016/11/29/09/32/search-1867743_1280.jpg" alt="Recherche documentaire" width="300">
+      <img src="../images/rag_1.png" alt="Recherche d’informations" width="300"><br>
+      <strong>Recherche documentaire</strong><br>
+      L’IA analyse et sélectionne les documents les plus utiles pour répondre.<br>
+      <img src="../images/rag_2.png" alt="Recherche documentaire" width="300">
     </td>
     <td>
       <strong>Génération de réponse</strong><br>
       Ensuite, elle utilise les informations trouvées pour rédiger une réponse adaptée.<br>
-      <img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/typing-1975682_1280.jpg" alt="Génération de texte" width="300">
+      <img src="../images/rag_3.png" alt="Génération de texte" width="300">
     </td>
   </tr>
 </table>
@@ -61,7 +64,7 @@ Imagine un assistant IA qui, avant de te répondre, va d’abord chercher dans u
 ## Schéma du fonctionnement RAG
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/rag.png" alt="Schéma RAG" width="500">
+  <img src="../images/rag_schema.png" alt="Schéma RAG" width="500">
 </div>
 
 ---
