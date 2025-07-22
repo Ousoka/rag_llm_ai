@@ -13,7 +13,10 @@ To answer specific questions, you need to **give it access to your private libra
 
 ---
 
-![Overview](./images/overview.png)
+<!-- ![Overview](./images/overview.png) -->
+<p align="center">
+  <img src="./images/overview.png" alt="RAG System Diagram" width="600"/>
+</p>
 
 ---
 
@@ -33,7 +36,10 @@ It's like asking a colleague a question:
 
 ---
 
-![Critical Illustration](./images/overview1.png)
+<!-- ![Critical Illustration](./images/overview1.png) -->
+<p align="center">
+  <img src="./images/overview1.png" alt="RAG System Diagram" width="600"/>
+</p>
 
 ---
 
@@ -60,7 +66,10 @@ It bridges:
 
 ---
 
-![RAG Illustration](./images/rag_00.png)
+<!-- ![RAG Illustration](./images/rag_00.png) -->
+<p align="center">
+  <img src="./images/rag_00.png" alt="RAG System Diagram" width="600"/>
+</p>
 
 ---
 
@@ -68,7 +77,10 @@ It bridges:
 
 Here’s a detailed overview of **advanced techniques** to improve RAG systems.
 
-![Plan Overview](./images/plan.png)
+<!-- ![Plan Overview](./images/plan.png) -->
+<p align="center">
+  <img src="./images/plan.png" alt="RAG System Diagram" width="600"/>
+</p>
 
 ## 📊 Detailed Breakdown of the Steps
 
