@@ -13,7 +13,7 @@ To answer specific questions, you need to **give it access to your private libra
 
 ---
 
-![Overview](overview.png)
+![Overview](./images/overview.png)
 
 ---
 
@@ -33,7 +33,7 @@ It's like asking a colleague a question:
 
 ---
 
-![Critical Illustration](overview1.png)
+![Critical Illustration](./images/overview1.png)
 
 ---
 
@@ -60,7 +60,7 @@ It bridges:
 
 ---
 
-![RAG Illustration](rag_00.png)
+![RAG Illustration](./images/rag_00.png)
 
 ---
 
@@ -68,7 +68,7 @@ It bridges:
 
 Here’s a detailed overview of **advanced techniques** to improve RAG systems.
 
-![Plan Overview](plan.png)
+![Plan Overview](./images/plan.png)
 
 ## 📊 Detailed Breakdown of the Steps
 

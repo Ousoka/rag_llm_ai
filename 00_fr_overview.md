@@ -13,7 +13,7 @@ Pour répondre à vos questions spécifiques, il est essentiel de **lui donner a
 
 ---
 
-![Vue d'ensemble](overview.png)
+![Vue d'ensemble](./images/overview.png)
 
 ---
 
@@ -33,7 +33,7 @@ C’est comme si vous posiez une question à un collègue :
 
 ---
 
-![Illustration critique](overview1.png)
+![Illustration critique](./images/overview1.png)
 
 ---
 
@@ -60,7 +60,7 @@ C’est la rencontre entre :
 
 ---
 
-![RAG Illustration](rag_00.png)
+![RAG Illustration](./images/rag_00.png)
 
 ---
 
@@ -68,7 +68,7 @@ C’est la rencontre entre :
 
 Voici une vue d’ensemble plus détaillée des **techniques avancées** utilisées pour affiner un système RAG.
 
-![Plan général](plan.png)
+![Plan général](./images/plan.png)
 
 ## 📊 Schéma détaillé des étapes
 
